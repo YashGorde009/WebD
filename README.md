@@ -22,4 +22,4 @@ We're committed to your growth. Expect fresh source code additions nearly every 
 
 Get ready to embark on an exciting coding journey! 👨‍💻🌟
 
-[Ready to start? Click here to access the complete YouTube playlist.](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
+Ready to start [Click here](https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w) to access the complete YouTube playlist.
